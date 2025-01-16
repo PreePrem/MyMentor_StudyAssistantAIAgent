@@ -1,0 +1,4 @@
+phi 
+groq
+exa_py
+python-dotenv
